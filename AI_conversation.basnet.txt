@@ -1,0 +1,16 @@
+Student used AI to:
+
+* Check understanding of the Tip Calculator problem
+
+* Verify tip calculation:
+  $45.80 × 15% = $6.87
+  Total = $52.67
+
+* Check understanding of the Late Fee Calculator problem
+
+* Verify late fee calculations:
+  5 days late = $2.50
+  25 days late = $12.50 but maximum fine is $10.00
+  0 days late = $0.00
+
+AI also helped organize the answers into proper markdown format for Google Colab.
